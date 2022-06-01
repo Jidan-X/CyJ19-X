@@ -4,6 +4,9 @@ https://user-images.githubusercontent.com/88397313/138573371-1f63f10e-00a8-43af-
 
 
 
+# Hasil Crot
+https://user-images.githubusercontent.com/IMG_2220601_100338.jpg
+
 # CARA INSTALL NYA ↓
 
 
@@ -26,4 +29,4 @@ $ cd CyJ19-X
 $ python2 CyJ19-X.py
 
 
-# JANG LUPA KASIH BINTANG NYA KONTOLL
+# JANG LUPA FOLLOW DAN KASIH BINTANG NYA KONTOLL
