@@ -4,6 +4,8 @@ https://user-images.githubusercontent.com/88397313/138573371-1f63f10e-00a8-43af-
 
 
 
+# CARA INSTALL NYA ↓
+
 
 $ pkg update && pkg upgrade
 
