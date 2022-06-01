@@ -5,7 +5,7 @@ https://user-images.githubusercontent.com/88397313/138573371-1f63f10e-00a8-43af-
 
 
 # Hasil Crot
-https://user-images.githubusercontent.com/88397313/138573371-IMG_2220601_100338.jpg
+
 
 # CARA INSTALL NYA ↓
 
