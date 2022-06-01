@@ -19,8 +19,11 @@ $ pip install requests
 
 $ pip install mechanize
 
-$ git clone https://github.com/JidanXDec/CyJ19-
+$ git clone https://github.com/JidanXDec/CyJ19-X
 
 $ cd CyJ19-X
 
 $ python2 CyJ19-X.py
+
+
+#JANG LUPA KASIH BINTANG NYA KONTOLL
